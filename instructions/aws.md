@@ -24,9 +24,13 @@ Amazon web services - lambda is a server less hosting environment provided by am
 
 ![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/aws-lambda-test-app.PNG)
 
-- Click -> The logical ID. Onclicking, the window navigates to the configuration console. In the function code section, we can add the node.js file for the functionality.
+
+- copy the ARN code and then add that code in endpoint section of amazone deveoper site to establish a communication between lambda and skill set.
 
 ![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/Screenshot.png)
+
+
+- Click -> The logical ID. Onclicking, the window navigates to the configuration console. In the function code section, we can add the node.js file for the functionality.
 
 ![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/aws-functioncode.PNG)
 
