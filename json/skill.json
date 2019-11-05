@@ -1,0 +1,94 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "find restaurants",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "findrestaurants",
+                    "slots": [
+                        {
+                            "name": "restaurants",
+                            "type": "restaurants"
+                        }
+                    ],
+                    "samples": [
+                        "{restaurants} near by",
+                        "near by {restaurants}",
+                        "find {restaurants} near me",
+                        "find some {restaurants} near me"
+                    ]
+                },
+                {
+                    "name": "sayhialexa",
+                    "slots": [],
+                    "samples": [
+                        "Alexa say Hai to our friends",
+                        "alexa say hello to our friends",
+                        "alexa say hi",
+                        "alexa say hello"
+                    ]
+                },
+                {
+                    "name": "menu",
+                    "slots": [
+                        {
+                            "name": "hotel",
+                            "type": "restaurants"
+                        }
+                    ],
+                    "samples": [
+                        "{hotel} menu",
+                        "menu of {hotel}"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "restaurants",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "pizza hut"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "taco bell"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "starbucks"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "burgerking"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
