@@ -18,7 +18,7 @@ Great! You should now have access to your account. This is what your dashboard o
 
 Now it's time to create a new project on the developer console. Click on the "Alexa" menu item in the navigation bar and choose "Alexa Skill Kit" to access your Alexa Skills:
 
-![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/alexaskill.png)
+![](images/amazonsignin.jpg)
 
 Let's create a new Skill by clicking on the blue button to the upper right:
 
