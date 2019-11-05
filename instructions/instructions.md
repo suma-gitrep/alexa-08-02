@@ -26,4 +26,4 @@ Let's create a new Skill by clicking on the blue button to the upper right:
 
 The next step is to give the Skill a name:
 
-![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/createnewalexaskill.png)
+![](images/createnewalexaskill.jpg)
