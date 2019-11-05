@@ -8,3 +8,5 @@
 
 ## References
 [Alexa Tutorial](https://www.jovo.tech/tutorials/alexa-skill-tutorial-nodejs)
+
+![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/BeFunky-collage.jpg)
