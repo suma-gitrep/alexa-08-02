@@ -22,7 +22,7 @@ Now it's time to create a new project on the developer console. Click on the "Al
 
 Let's create a new Skill by clicking on the blue button to the upper right:
 
-![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/newskill.png)
+![](images/newskill.jpg)
 
 The next step is to give the Skill a name:
 
