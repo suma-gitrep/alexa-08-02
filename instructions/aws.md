@@ -24,9 +24,9 @@ Amazon web services - lambda is a server less hosting environment provided by am
 
 ![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/aws-lambda-test-app.PNG)
 
-- Click -> The logical ID. Onclicking, the window navigates to the configuration console. Here, In the designer section we can set up the skill set key. In the function code section, we can add the node.js file for the functionality.
+- Click -> The logical ID. Onclicking, the window navigates to the configuration console. In the function code section, we can add the node.js file for the functionality.
 
-![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/aws-lambda-designer.PNG)
+![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/Screenshot.PNG)
 
 ![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/aws-functioncode.PNG)
 
