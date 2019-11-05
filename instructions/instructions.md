@@ -12,7 +12,7 @@ Now either sign in with your Amazon Developer account or create a new one.
 
 Great! You should now have access to your account. This is what your dashboard of the Amazon Developer Console looks like:
 
-![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/console.png)
+![](images/console.jpg)
 
 ##Create a new Skill
 
