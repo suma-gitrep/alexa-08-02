@@ -1,4 +1,4 @@
-# webapps-08-02
+# Alexa-08-02
 
 ## Group Members
 - Sai Naveen Bhargava Gajavalli : [My Github profile](https://github.com/naveenpi)
@@ -6,3 +6,5 @@
 - Venkata Siva Krishna Mohan Pratapa : [My GitHub profile](https://github.com/mohanpratapa)
 - SaiPrasad Bobbilla : [My Github Profile](https://github.com/prasadbobbilla)
 
+## References
+[Alexa Tutorial](https://www.jovo.tech/tutorials/alexa-skill-tutorial-nodejs)
