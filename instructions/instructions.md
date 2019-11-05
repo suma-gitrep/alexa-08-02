@@ -12,18 +12,19 @@ Now either sign in with your Amazon Developer account or create a new one.
 
 Great! You should now have access to your account. This is what your dashboard of the Amazon Developer Console looks like:
 
-![](images/console.jpg)
+![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/console.jpg)
 
 ##Create a new Skill
 
 Now it's time to create a new project on the developer console. Click on the "Alexa" menu item in the navigation bar and choose "Alexa Skill Kit" to access your Alexa Skills:
 
-![](images/amazonsignin.jpg)
+![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/amazonsignin.jpg)
 
 Let's create a new Skill by clicking on the blue button to the upper right:
 
-![](images/newskill.jpg)
+![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/newskill.jpg)
 
 The next step is to give the Skill a name:
 
-![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/alexaskill.jpg)
+
+![](https://github.com/suma-gitrep/alexa-08-02/blob/master/images/createnewalexaskill.jpg)
